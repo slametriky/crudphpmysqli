@@ -2,7 +2,7 @@ Contoh CRUD Sederhana dengan PHP dan MySQLi OOP
 =========
 Simple CRUD dengan php dan mysqli oop
 
-Teknolohi
+Teknologi
 -------
 HTML, CSS, PHP dan Mysqli, Twitter Bootstrap
 
